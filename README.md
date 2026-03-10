@@ -1,3 +1,11 @@
+![HTML5](https://img.shields.io/badge/HTML5-orange)
+![CSS3](https://img.shields.io/badge/CSS3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple)
+![jQuery](https://img.shields.io/badge/jQuery-blue)
+![Responsive](https://img.shields.io/badge/Responsive-Design-green)
+![Status](https://img.shields.io/badge/Status-Production-success)
+
 # Flothers Corporate Website
 
 Official corporate website developed for **Flothers Technologies**, designed to showcase the company’s cybersecurity products, endpoint protection solutions, and enterprise security services.
